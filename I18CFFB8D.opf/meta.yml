@@ -1,0 +1,55 @@
+id: I18CFFB8D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:55:17.765487'
+last_modified: '2022-05-31T06:55:17.765496'
+parser: null
+source_metadata:
+  title: Rangrik Dorje Series
+  language: en
+  description: 'Texts by and about the treasure-revealer Rangrik Dorje (rang rig rdo
+    rje) alias Kusum Lingpa (sku gsum gling pa, 1847–1903) of Nyarong:'
+  volume:
+    f0141:
+      title: An Extremely Concise Barché Lamsel—The Prayer for Clearing Obstacles
+        from the Path
+      base_file: f0141.txt
+      order: 1
+      parent: Guru Rinpoche Prayers
+    f46F5:
+      title: An Extremely Concise Sampa Lhundrup—Prayer that Spontaneously Fulfils
+        All Wishes
+      base_file: f46F5.txt
+      order: 2
+      parent: Guru Rinpoche Prayers
+    fFF55:
+      title: The Seven Lines that Dispel All Obstacles and Enfold All Profundity
+      base_file: fFF55.txt
+      order: 3
+      parent: Guru Rinpoche Prayers
+    f8158:
+      title: 'The Spontaneous Fulfilment of All Wishes: Invoking the Great Guru of
+        Uḍḍiyāna'
+      base_file: f8158.txt
+      order: 4
+      parent: Guru Rinpoche Prayers
+    fBE47:
+      title: 'The Wish-Fulfilling Tree: A Prayer to the All-Embodying Lama Tsokye
+        Dorje'
+      base_file: fBE47.txt
+      order: 5
+      parent: Guru Rinpoche Prayers
+    f9241:
+      title: 'Victory Over All Adversity: A Prayer to Invoke Guru Rinpoche’s Wisdom
+        for the Swift Fulfilment of Wishes'
+      base_file: f9241.txt
+      order: 6
+      parent: Guru Rinpoche Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
